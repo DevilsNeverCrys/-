@@ -1,4 +1,6 @@
-﻿// Абстрактний клас для легкових автомобілів
+using System;
+
+// Абстрактний клас для легкових автомобілів
 public abstract class Car
 {
     public abstract void DisplayInfo();
